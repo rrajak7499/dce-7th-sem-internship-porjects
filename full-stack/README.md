@@ -12,18 +12,18 @@ yarn dev
 pnpm dev
 ```
 ```bash
-#For Database
-#create database : 
+# For Database
+# create database : 
 npx prisma migrate dev --name init
-#run databse : 
+# run databse : 
 npx prisma studio
 
-#Some imortant commands: Run commands in terminals to start:
-#Front end: 
+# Some imortant commands: Run commands in terminals to start:
+# Front end: 
 npm run dev
-#Back end: 
+# Back end: 
 npm run server
-#prisma: 
+# prisma: 
 npx prisma studio
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
