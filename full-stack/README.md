@@ -19,9 +19,12 @@ npx prisma migrate dev --name init
 npx prisma studio
 
 #Some imortant commands: Run commands in terminals to start:
-Front end: npm run dev
-Back end: npm run server
-prisma: npx prisma studio
+#Front end: 
+npm run dev
+#Back end: 
+npm run server
+#prisma: 
+npx prisma studio
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
