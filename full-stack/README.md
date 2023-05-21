@@ -12,12 +12,13 @@ yarn dev
 pnpm dev
 ```
 ```bash
-For data base
-create database : npx prisma migrate dev --name init
-run databse : npx prisma studio
+#For Database
+#create database : 
+npx prisma migrate dev --name init
+#run databse : 
+npx prisma studio
 
-Some imortant commands:
-Run commands in terminals:
+#Some imortant commands: Run commands in terminals to start:
 Front end: npm run dev
 Back end: npm run server
 prisma: npx prisma studio
